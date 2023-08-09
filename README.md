@@ -3,9 +3,13 @@ El presente juego "CrazyZombie: Rise of the Specials" utiliza la biblioteca SFML
 
 2. Instrucciones para Compilación:
 Para compilar y ejecutar el juego, siga los siguientes pasos:
+
 a. Asegúrese de tener instalada la biblioteca SFML en su sistema.
+
 b. Descargue los archivos fuente del juego desde el repositorio en GitHub: https://github.com/DanRX25/Crazy-Zombies.
+
 c. Abra una terminal y navegue hasta el directorio del proyecto.
+
 d. Ejecute el comando de compilación, por ejemplo: g++ -o CrazyZombie main.cpp -lsfml-graphics -lsfml-window -lsfml-system
 
 4. Uso
